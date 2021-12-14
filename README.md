@@ -1,2 +1,2 @@
 # image-classification
-minor project
+minor project on image classification using python(machine learning).
